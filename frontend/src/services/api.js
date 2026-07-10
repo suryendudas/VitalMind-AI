@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://127.0.0.1:8000",
+  baseURL: "https://vitalmind-ai-z6g2.onrender.com",
 });
 
 export const getHealthData = async () => {
