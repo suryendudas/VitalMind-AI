@@ -43,3 +43,4 @@ Thumbs.db
 # Local uploaded data (optional)
 # =========================
 backend/sample_data/*.csv
+backend/test_granite.py
