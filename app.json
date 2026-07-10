@@ -1,0 +1,9 @@
+{
+  "name": "VitalMind AI",
+  "description": "AI-powered Fitness & Wellness Buddy using IBM Granite on IBM watsonx.ai",
+  "version": "1.0.0",
+  "author": "Suryendu Das",
+  "problem_statement": "Problem Statement No. 13 - Fitness Buddy",
+  "frontend": "https://vital-mind-ai.vercel.app",
+  "backend": "https://vitalmind-ai-z6g2.onrender.com"
+}
