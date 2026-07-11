@@ -146,6 +146,18 @@ https://vital-mind-ai.vercel.app
 
 https://vitalmind-ai-z6g2.onrender.com/docs
 
+## 📂 Sample Dataset
+
+A sample wearable health dataset is included for testing.
+
+Location:
+
+sample_data/health_data.csv
+sample_data/health_data-2.csv
+
+Simply upload this file on the web application to experience the complete AI-powered wellness analysis
+
+
 ---
 
 ## 📈 Future Scope
