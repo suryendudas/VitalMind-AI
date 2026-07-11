@@ -146,15 +146,13 @@ https://vital-mind-ai.vercel.app
 
 https://vitalmind-ai-z6g2.onrender.com/docs
 
-## 📂 Sample Dataset
+## 📂 Sample Datasets
 
-A sample wearable health dataset is included for testing.
+The following sample datasets are included for testing:
 
-Location:
+- 📄 [health_data.csv](sample_data/health_data.csv) – Standard sample wearable health data.
+- 📄 [health_data-2.csv](sample_data/health_data-2.csv) – Example dataset with alternet data.
 
-sample_data/health_data.csv
-
-sample_data/health_data-2.csv
 
 Simply upload this file on the web application to experience the complete AI-powered wellness analysis
 
